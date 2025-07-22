@@ -1,0 +1,4013 @@
+Denoising Log - 20-Jul-2025 16:20:11
+
+Starting batch denoising of 500 images...
+
+Processing 0001.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 12.87 sec
+PSNR: 40.05 dB, SSIM: 0.9887
+STATUS: SUCCESS
+
+Processing 0002.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.18 sec
+PSNR: 40.05 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0003.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.17 sec
+PSNR: 39.17 dB, SSIM: 0.9860
+STATUS: SUCCESS
+
+Processing 0004.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.25 sec
+PSNR: 39.59 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0005.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 24.25 sec
+PSNR: 39.37 dB, SSIM: 0.9865
+STATUS: SUCCESS
+
+Processing 0006.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.23 sec
+PSNR: 39.86 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0007.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.53 sec
+PSNR: 39.82 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0008.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.40 sec
+PSNR: 40.15 dB, SSIM: 0.9883
+STATUS: SUCCESS
+
+Processing 0009.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.39 sec
+PSNR: 40.16 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0010.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.42 sec
+PSNR: 40.12 dB, SSIM: 0.9883
+STATUS: SUCCESS
+
+Processing 0011.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.48 sec
+PSNR: 40.06 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0012.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.08 sec
+PSNR: 40.16 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0013.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.60 sec
+PSNR: 40.09 dB, SSIM: 0.9883
+STATUS: SUCCESS
+
+Processing 0014.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.76 sec
+PSNR: 40.19 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0015.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.57 sec
+PSNR: 40.09 dB, SSIM: 0.9883
+STATUS: SUCCESS
+
+Processing 0016.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.47 sec
+PSNR: 40.28 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0017.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.59 sec
+PSNR: 40.27 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0018.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 20.44 sec
+PSNR: 40.34 dB, SSIM: 0.9886
+STATUS: SUCCESS
+
+Processing 0019.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.38 sec
+PSNR: 40.20 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0020.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.45 sec
+PSNR: 40.38 dB, SSIM: 0.9887
+STATUS: SUCCESS
+
+Processing 0021.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.73 sec
+PSNR: 40.42 dB, SSIM: 0.9887
+STATUS: SUCCESS
+
+Processing 0022.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.56 sec
+PSNR: 40.53 dB, SSIM: 0.9889
+STATUS: SUCCESS
+
+Processing 0023.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.72 sec
+PSNR: 40.36 dB, SSIM: 0.9886
+STATUS: SUCCESS
+
+Processing 0024.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.90 sec
+PSNR: 40.62 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0025.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.10 sec
+PSNR: 40.63 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0026.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.28 sec
+PSNR: 40.80 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0027.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.83 sec
+PSNR: 40.72 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0028.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.04 sec
+PSNR: 40.94 dB, SSIM: 0.9896
+STATUS: SUCCESS
+
+Processing 0029.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.92 sec
+PSNR: 40.91 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0030.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.22 sec
+PSNR: 40.96 dB, SSIM: 0.9896
+STATUS: SUCCESS
+
+Processing 0031.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.77 sec
+PSNR: 40.86 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0032.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.61 sec
+PSNR: 41.03 dB, SSIM: 0.9897
+STATUS: SUCCESS
+
+Processing 0033.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.26 sec
+PSNR: 41.01 dB, SSIM: 0.9897
+STATUS: SUCCESS
+
+Processing 0034.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.28 sec
+PSNR: 41.05 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0035.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.37 sec
+PSNR: 40.94 dB, SSIM: 0.9897
+STATUS: SUCCESS
+
+Processing 0036.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.27 sec
+PSNR: 41.06 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0037.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.30 sec
+PSNR: 40.94 dB, SSIM: 0.9896
+STATUS: SUCCESS
+
+Processing 0038.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.93 sec
+PSNR: 41.01 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0039.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.84 sec
+PSNR: 40.88 dB, SSIM: 0.9897
+STATUS: SUCCESS
+
+Processing 0040.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.69 sec
+PSNR: 40.95 dB, SSIM: 0.9897
+STATUS: SUCCESS
+
+Processing 0041.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.78 sec
+PSNR: 40.83 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0042.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.59 sec
+PSNR: 40.89 dB, SSIM: 0.9896
+STATUS: SUCCESS
+
+Processing 0043.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.75 sec
+PSNR: 40.74 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0044.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.09 sec
+PSNR: 40.88 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0045.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.13 sec
+PSNR: 40.78 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0046.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.81 sec
+PSNR: 40.83 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0047.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.61 sec
+PSNR: 40.72 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0048.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.94 sec
+PSNR: 40.87 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0049.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.53 sec
+PSNR: 40.90 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0050.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.64 sec
+PSNR: 40.91 dB, SSIM: 0.9890
+STATUS: SUCCESS
+Progress: 50/500 (10.0%) - Success: 50
+
+Processing 0051.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.15 sec
+PSNR: 40.84 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0052.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.22 sec
+PSNR: 40.98 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0053.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.19 sec
+PSNR: 40.96 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0054.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.71 sec
+PSNR: 41.00 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0055.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.77 sec
+PSNR: 40.99 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0056.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.67 sec
+PSNR: 41.09 dB, SSIM: 0.9889
+STATUS: SUCCESS
+
+Processing 0057.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.80 sec
+PSNR: 41.06 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0058.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.82 sec
+PSNR: 41.17 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0059.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.68 sec
+PSNR: 41.19 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0060.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.71 sec
+PSNR: 41.17 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0061.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.75 sec
+PSNR: 41.23 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0062.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.79 sec
+PSNR: 41.30 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0063.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.60 sec
+PSNR: 41.28 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0064.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.81 sec
+PSNR: 41.34 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0065.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.77 sec
+PSNR: 41.31 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0066.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.50 sec
+PSNR: 41.43 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0067.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.58 sec
+PSNR: 41.39 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0068.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.17 sec
+PSNR: 41.46 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0069.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.85 sec
+PSNR: 41.33 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0070.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.28 sec
+PSNR: 41.37 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0071.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.35 sec
+PSNR: 41.34 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0072.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.47 sec
+PSNR: 41.39 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0073.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 31.88 sec
+PSNR: 41.32 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0074.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 26.95 sec
+PSNR: 41.39 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0075.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.77 sec
+PSNR: 41.31 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0076.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.93 sec
+PSNR: 41.41 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0077.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.38 sec
+PSNR: 41.32 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0078.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.57 sec
+PSNR: 41.45 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0079.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.28 sec
+PSNR: 41.37 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0080.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.51 sec
+PSNR: 41.38 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0081.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.44 sec
+PSNR: 41.24 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0082.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.32 sec
+PSNR: 41.31 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0083.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.63 sec
+PSNR: 41.24 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0084.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.85 sec
+PSNR: 41.32 dB, SSIM: 0.9892
+STATUS: SUCCESS
+
+Processing 0085.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.92 sec
+PSNR: 41.18 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0086.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.15 sec
+PSNR: 41.21 dB, SSIM: 0.9890
+STATUS: SUCCESS
+
+Processing 0087.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.93 sec
+PSNR: 41.07 dB, SSIM: 0.9888
+STATUS: SUCCESS
+
+Processing 0088.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.77 sec
+PSNR: 41.10 dB, SSIM: 0.9889
+STATUS: SUCCESS
+
+Processing 0089.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.25 sec
+PSNR: 41.01 dB, SSIM: 0.9888
+STATUS: SUCCESS
+
+Processing 0090.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.60 sec
+PSNR: 40.95 dB, SSIM: 0.9886
+STATUS: SUCCESS
+
+Processing 0091.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.23 sec
+PSNR: 40.87 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0092.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.08 sec
+PSNR: 40.78 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0093.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.56 sec
+PSNR: 40.66 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0094.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 40.69 sec
+PSNR: 40.70 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0095.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 59.62 sec
+PSNR: 40.58 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0096.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 58.15 sec
+PSNR: 40.65 dB, SSIM: 0.9881
+STATUS: SUCCESS
+
+Processing 0097.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 71.77 sec
+PSNR: 40.43 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0098.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 44.87 sec
+PSNR: 40.46 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0099.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 63.17 sec
+PSNR: 40.32 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0100.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.09 sec
+PSNR: 40.28 dB, SSIM: 0.9874
+STATUS: SUCCESS
+Progress: 100/500 (20.0%) - Success: 100
+
+Processing 0101.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.98 sec
+PSNR: 40.25 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0102.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.75 sec
+PSNR: 40.15 dB, SSIM: 0.9873
+STATUS: SUCCESS
+
+Processing 0103.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.09 sec
+PSNR: 40.01 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0104.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.26 sec
+PSNR: 39.98 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0105.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.32 sec
+PSNR: 39.84 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0106.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.55 sec
+PSNR: 39.93 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0107.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.91 sec
+PSNR: 39.92 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0108.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.35 sec
+PSNR: 39.96 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0109.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.46 sec
+PSNR: 39.91 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0110.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.75 sec
+PSNR: 40.02 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0111.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.41 sec
+PSNR: 40.06 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0112.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.79 sec
+PSNR: 40.14 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0113.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.75 sec
+PSNR: 40.06 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0114.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.60 sec
+PSNR: 40.28 dB, SSIM: 0.9873
+STATUS: SUCCESS
+
+Processing 0115.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.42 sec
+PSNR: 40.30 dB, SSIM: 0.9874
+STATUS: SUCCESS
+
+Processing 0116.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.37 sec
+PSNR: 40.41 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0117.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.75 sec
+PSNR: 40.34 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0118.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.97 sec
+PSNR: 40.47 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0119.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.56 sec
+PSNR: 40.56 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0120.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.94 sec
+PSNR: 40.44 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0121.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.48 sec
+PSNR: 40.53 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0122.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 33.15 sec
+PSNR: 40.67 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0123.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.63 sec
+PSNR: 40.69 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0124.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 20.08 sec
+PSNR: 40.78 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0125.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.55 sec
+PSNR: 40.70 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0126.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.42 sec
+PSNR: 40.75 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0127.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.82 sec
+PSNR: 40.69 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0128.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.65 sec
+PSNR: 40.79 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0129.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.73 sec
+PSNR: 40.70 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0130.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.79 sec
+PSNR: 40.77 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0131.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.60 sec
+PSNR: 40.73 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0132.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.48 sec
+PSNR: 40.73 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0133.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.17 sec
+PSNR: 40.69 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0134.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.57 sec
+PSNR: 40.76 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0135.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.36 sec
+PSNR: 40.74 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0136.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.78 sec
+PSNR: 40.75 dB, SSIM: 0.9874
+STATUS: SUCCESS
+
+Processing 0137.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.28 sec
+PSNR: 40.78 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0138.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.82 sec
+PSNR: 40.93 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0139.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.08 sec
+PSNR: 40.87 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0140.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.33 sec
+PSNR: 40.86 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0141.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.92 sec
+PSNR: 40.75 dB, SSIM: 0.9873
+STATUS: SUCCESS
+
+Processing 0142.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.93 sec
+PSNR: 40.88 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0143.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.52 sec
+PSNR: 40.88 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0144.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.30 sec
+PSNR: 40.93 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0145.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.51 sec
+PSNR: 40.98 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0146.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.90 sec
+PSNR: 41.07 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0147.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.85 sec
+PSNR: 41.08 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0148.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.64 sec
+PSNR: 41.09 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0149.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.59 sec
+PSNR: 40.99 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0150.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.75 sec
+PSNR: 41.02 dB, SSIM: 0.9878
+STATUS: SUCCESS
+Progress: 150/500 (30.0%) - Success: 150
+
+Processing 0151.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.84 sec
+PSNR: 40.90 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0152.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.67 sec
+PSNR: 40.88 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0153.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.09 sec
+PSNR: 40.79 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0154.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.10 sec
+PSNR: 39.18 dB, SSIM: 0.9843
+STATUS: SUCCESS
+
+Processing 0155.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.44 sec
+PSNR: 39.29 dB, SSIM: 0.9846
+STATUS: SUCCESS
+
+Processing 0156.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.20 sec
+PSNR: 39.45 dB, SSIM: 0.9849
+STATUS: SUCCESS
+
+Processing 0157.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.73 sec
+PSNR: 39.48 dB, SSIM: 0.9850
+STATUS: SUCCESS
+
+Processing 0158.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.22 sec
+PSNR: 39.63 dB, SSIM: 0.9853
+STATUS: SUCCESS
+
+Processing 0159.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.63 sec
+PSNR: 39.62 dB, SSIM: 0.9854
+STATUS: SUCCESS
+
+Processing 0160.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.47 sec
+PSNR: 39.65 dB, SSIM: 0.9855
+STATUS: SUCCESS
+
+Processing 0161.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.95 sec
+PSNR: 39.67 dB, SSIM: 0.9860
+STATUS: SUCCESS
+
+Processing 0162.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.19 sec
+PSNR: 39.74 dB, SSIM: 0.9860
+STATUS: SUCCESS
+
+Processing 0163.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.89 sec
+PSNR: 39.65 dB, SSIM: 0.9860
+STATUS: SUCCESS
+
+Processing 0164.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.74 sec
+PSNR: 39.70 dB, SSIM: 0.9861
+STATUS: SUCCESS
+
+Processing 0165.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.67 sec
+PSNR: 39.58 dB, SSIM: 0.9860
+STATUS: SUCCESS
+
+Processing 0166.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.93 sec
+PSNR: 39.73 dB, SSIM: 0.9864
+STATUS: SUCCESS
+
+Processing 0167.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.67 sec
+PSNR: 39.66 dB, SSIM: 0.9865
+STATUS: SUCCESS
+
+Processing 0168.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.19 sec
+PSNR: 39.72 dB, SSIM: 0.9867
+STATUS: SUCCESS
+
+Processing 0169.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.62 sec
+PSNR: 39.68 dB, SSIM: 0.9867
+STATUS: SUCCESS
+
+Processing 0170.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.49 sec
+PSNR: 39.79 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0171.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.83 sec
+PSNR: 39.75 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0172.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.33 sec
+PSNR: 39.82 dB, SSIM: 0.9872
+STATUS: SUCCESS
+
+Processing 0173.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.33 sec
+PSNR: 39.80 dB, SSIM: 0.9873
+STATUS: SUCCESS
+
+Processing 0174.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.49 sec
+PSNR: 39.94 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0175.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.19 sec
+PSNR: 39.96 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0176.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 283.55 sec
+PSNR: 40.05 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0177.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.60 sec
+PSNR: 40.05 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0178.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.69 sec
+PSNR: 40.17 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0179.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.13 sec
+PSNR: 40.27 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0180.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.89 sec
+PSNR: 40.14 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0181.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.25 sec
+PSNR: 40.25 dB, SSIM: 0.9887
+STATUS: SUCCESS
+
+Processing 0182.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.22 sec
+PSNR: 40.31 dB, SSIM: 0.9888
+STATUS: SUCCESS
+
+Processing 0183.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.22 sec
+PSNR: 40.25 dB, SSIM: 0.9886
+STATUS: SUCCESS
+
+Processing 0184.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.41 sec
+PSNR: 40.34 dB, SSIM: 0.9887
+STATUS: SUCCESS
+
+Processing 0185.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.54 sec
+PSNR: 40.25 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0186.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.54 sec
+PSNR: 40.34 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0187.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.70 sec
+PSNR: 40.28 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0188.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.26 sec
+PSNR: 40.32 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0189.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.10 sec
+PSNR: 40.23 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0190.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.35 sec
+PSNR: 40.26 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0191.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.79 sec
+PSNR: 40.21 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0192.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.21 sec
+PSNR: 40.27 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0193.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.61 sec
+PSNR: 40.15 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0194.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.44 sec
+PSNR: 40.30 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0195.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 12.58 sec
+PSNR: 40.29 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0196.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.82 sec
+PSNR: 40.41 dB, SSIM: 0.9881
+STATUS: SUCCESS
+
+Processing 0197.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.79 sec
+PSNR: 40.32 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0198.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.30 sec
+PSNR: 40.41 dB, SSIM: 0.9881
+STATUS: SUCCESS
+
+Processing 0199.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.16 sec
+PSNR: 40.32 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0200.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.31 sec
+PSNR: 40.35 dB, SSIM: 0.9879
+STATUS: SUCCESS
+Progress: 200/500 (40.0%) - Success: 200
+
+Processing 0201.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.97 sec
+PSNR: 40.34 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0202.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.25 sec
+PSNR: 40.24 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0203.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.64 sec
+PSNR: 40.25 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0204.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.11 sec
+PSNR: 40.31 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0205.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.81 sec
+PSNR: 40.19 dB, SSIM: 0.9874
+STATUS: SUCCESS
+
+Processing 0206.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.60 sec
+PSNR: 40.39 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0207.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.04 sec
+PSNR: 40.40 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0208.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.94 sec
+PSNR: 40.46 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0209.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.16 sec
+PSNR: 40.37 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0210.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.82 sec
+PSNR: 40.45 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0211.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.47 sec
+PSNR: 40.45 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0212.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.65 sec
+PSNR: 40.57 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0213.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 20.40 sec
+PSNR: 40.50 dB, SSIM: 0.9884
+STATUS: SUCCESS
+
+Processing 0214.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 34.56 sec
+PSNR: 40.49 dB, SSIM: 0.9886
+STATUS: SUCCESS
+
+Processing 0215.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 43.31 sec
+PSNR: 40.65 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0216.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.18 sec
+PSNR: 40.75 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0217.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.17 sec
+PSNR: 40.86 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0218.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.84 sec
+PSNR: 40.84 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0219.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.53 sec
+PSNR: 40.99 dB, SSIM: 0.9902
+STATUS: SUCCESS
+
+Processing 0220.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.07 sec
+PSNR: 40.91 dB, SSIM: 0.9902
+STATUS: SUCCESS
+
+Processing 0221.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.54 sec
+PSNR: 41.01 dB, SSIM: 0.9904
+STATUS: SUCCESS
+
+Processing 0222.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.83 sec
+PSNR: 40.88 dB, SSIM: 0.9903
+STATUS: SUCCESS
+
+Processing 0223.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.22 sec
+PSNR: 41.00 dB, SSIM: 0.9905
+STATUS: SUCCESS
+
+Processing 0224.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.55 sec
+PSNR: 40.87 dB, SSIM: 0.9902
+STATUS: SUCCESS
+
+Processing 0225.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.02 sec
+PSNR: 40.91 dB, SSIM: 0.9903
+STATUS: SUCCESS
+
+Processing 0226.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.19 sec
+PSNR: 40.81 dB, SSIM: 0.9903
+STATUS: SUCCESS
+
+Processing 0227.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.36 sec
+PSNR: 40.76 dB, SSIM: 0.9902
+STATUS: SUCCESS
+
+Processing 0228.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 21.61 sec
+PSNR: 40.69 dB, SSIM: 0.9901
+STATUS: SUCCESS
+
+Processing 0229.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.01 sec
+PSNR: 40.65 dB, SSIM: 0.9900
+STATUS: SUCCESS
+
+Processing 0230.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.23 sec
+PSNR: 40.72 dB, SSIM: 0.9901
+STATUS: SUCCESS
+
+Processing 0231.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.64 sec
+PSNR: 40.73 dB, SSIM: 0.9903
+STATUS: SUCCESS
+
+Processing 0232.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.30 sec
+PSNR: 40.60 dB, SSIM: 0.9901
+STATUS: SUCCESS
+
+Processing 0233.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.75 sec
+PSNR: 40.40 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0234.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.99 sec
+PSNR: 40.44 dB, SSIM: 0.9899
+STATUS: SUCCESS
+
+Processing 0235.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 31.15 sec
+PSNR: 40.53 dB, SSIM: 0.9901
+STATUS: SUCCESS
+
+Processing 0236.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.40 sec
+PSNR: 40.38 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0237.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.09 sec
+PSNR: 40.47 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0238.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.97 sec
+PSNR: 40.46 dB, SSIM: 0.9899
+STATUS: SUCCESS
+
+Processing 0239.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.05 sec
+PSNR: 40.58 dB, SSIM: 0.9900
+STATUS: SUCCESS
+
+Processing 0240.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.59 sec
+PSNR: 40.54 dB, SSIM: 0.9900
+STATUS: SUCCESS
+
+Processing 0241.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.05 sec
+PSNR: 40.65 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0242.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.49 sec
+PSNR: 40.77 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0243.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 33.93 sec
+PSNR: 40.62 dB, SSIM: 0.9897
+STATUS: SUCCESS
+
+Processing 0244.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.82 sec
+PSNR: 40.57 dB, SSIM: 0.9895
+STATUS: SUCCESS
+
+Processing 0245.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.13 sec
+PSNR: 40.55 dB, SSIM: 0.9893
+STATUS: SUCCESS
+
+Processing 0246.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.10 sec
+PSNR: 40.51 dB, SSIM: 0.9891
+STATUS: SUCCESS
+
+Processing 0247.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.96 sec
+PSNR: 40.45 dB, SSIM: 0.9888
+STATUS: SUCCESS
+
+Processing 0248.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.31 sec
+PSNR: 40.37 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0249.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.55 sec
+PSNR: 40.35 dB, SSIM: 0.9883
+STATUS: SUCCESS
+
+Processing 0250.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.07 sec
+PSNR: 40.35 dB, SSIM: 0.9881
+STATUS: SUCCESS
+Progress: 250/500 (50.0%) - Success: 250
+
+Processing 0251.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.67 sec
+PSNR: 40.26 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0252.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.12 sec
+PSNR: 40.24 dB, SSIM: 0.9875
+STATUS: SUCCESS
+
+Processing 0253.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.44 sec
+PSNR: 40.04 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0254.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.20 sec
+PSNR: 39.99 dB, SSIM: 0.9868
+STATUS: SUCCESS
+
+Processing 0255.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 35.41 sec
+PSNR: 39.97 dB, SSIM: 0.9864
+STATUS: SUCCESS
+
+Processing 0256.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.38 sec
+PSNR: 39.96 dB, SSIM: 0.9864
+STATUS: SUCCESS
+
+Processing 0257.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.56 sec
+PSNR: 39.82 dB, SSIM: 0.9859
+STATUS: SUCCESS
+
+Processing 0258.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.98 sec
+PSNR: 39.73 dB, SSIM: 0.9855
+STATUS: SUCCESS
+
+Processing 0259.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.55 sec
+PSNR: 39.73 dB, SSIM: 0.9856
+STATUS: SUCCESS
+
+Processing 0260.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.73 sec
+PSNR: 39.71 dB, SSIM: 0.9856
+STATUS: SUCCESS
+
+Processing 0261.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.89 sec
+PSNR: 39.70 dB, SSIM: 0.9854
+STATUS: SUCCESS
+
+Processing 0262.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.32 sec
+PSNR: 39.55 dB, SSIM: 0.9852
+STATUS: SUCCESS
+
+Processing 0263.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.06 sec
+PSNR: 39.57 dB, SSIM: 0.9853
+STATUS: SUCCESS
+
+Processing 0264.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.05 sec
+PSNR: 39.47 dB, SSIM: 0.9851
+STATUS: SUCCESS
+
+Processing 0265.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.09 sec
+PSNR: 39.45 dB, SSIM: 0.9851
+STATUS: SUCCESS
+
+Processing 0266.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.72 sec
+PSNR: 39.46 dB, SSIM: 0.9853
+STATUS: SUCCESS
+
+Processing 0267.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.10 sec
+PSNR: 39.44 dB, SSIM: 0.9853
+STATUS: SUCCESS
+
+Processing 0268.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.27 sec
+PSNR: 39.34 dB, SSIM: 0.9851
+STATUS: SUCCESS
+
+Processing 0269.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.02 sec
+PSNR: 39.49 dB, SSIM: 0.9855
+STATUS: SUCCESS
+
+Processing 0270.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.20 sec
+PSNR: 39.40 dB, SSIM: 0.9854
+STATUS: SUCCESS
+
+Processing 0271.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.33 sec
+PSNR: 39.41 dB, SSIM: 0.9856
+STATUS: SUCCESS
+
+Processing 0272.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.46 sec
+PSNR: 39.41 dB, SSIM: 0.9857
+STATUS: SUCCESS
+
+Processing 0273.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.69 sec
+PSNR: 39.38 dB, SSIM: 0.9857
+STATUS: SUCCESS
+
+Processing 0274.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.74 sec
+PSNR: 39.39 dB, SSIM: 0.9861
+STATUS: SUCCESS
+
+Processing 0275.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.00 sec
+PSNR: 39.32 dB, SSIM: 0.9863
+STATUS: SUCCESS
+
+Processing 0276.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.13 sec
+PSNR: 39.31 dB, SSIM: 0.9864
+STATUS: SUCCESS
+
+Processing 0277.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.99 sec
+PSNR: 39.31 dB, SSIM: 0.9866
+STATUS: SUCCESS
+
+Processing 0278.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.53 sec
+PSNR: 39.37 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0279.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.46 sec
+PSNR: 39.43 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0280.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.74 sec
+PSNR: 39.47 dB, SSIM: 0.9879
+STATUS: SUCCESS
+
+Processing 0281.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.52 sec
+PSNR: 39.45 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0282.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.74 sec
+PSNR: 39.46 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0283.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.75 sec
+PSNR: 39.38 dB, SSIM: 0.9886
+STATUS: SUCCESS
+
+Processing 0284.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.36 sec
+PSNR: 39.38 dB, SSIM: 0.9889
+STATUS: SUCCESS
+
+Processing 0285.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.27 sec
+PSNR: 39.41 dB, SSIM: 0.9894
+STATUS: SUCCESS
+
+Processing 0286.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.47 sec
+PSNR: 39.58 dB, SSIM: 0.9898
+STATUS: SUCCESS
+
+Processing 0287.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.48 sec
+PSNR: 39.57 dB, SSIM: 0.9901
+STATUS: SUCCESS
+
+Processing 0288.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.55 sec
+PSNR: 39.57 dB, SSIM: 0.9902
+STATUS: SUCCESS
+
+Processing 0289.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.76 sec
+PSNR: 39.59 dB, SSIM: 0.9905
+STATUS: SUCCESS
+
+Processing 0290.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.14 sec
+PSNR: 39.51 dB, SSIM: 0.9906
+STATUS: SUCCESS
+
+Processing 0291.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.15 sec
+PSNR: 39.55 dB, SSIM: 0.9908
+STATUS: SUCCESS
+
+Processing 0292.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.58 sec
+PSNR: 39.64 dB, SSIM: 0.9910
+STATUS: SUCCESS
+
+Processing 0293.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.95 sec
+PSNR: 39.59 dB, SSIM: 0.9911
+STATUS: SUCCESS
+
+Processing 0294.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.91 sec
+PSNR: 39.62 dB, SSIM: 0.9912
+STATUS: SUCCESS
+
+Processing 0295.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.36 sec
+PSNR: 39.60 dB, SSIM: 0.9914
+STATUS: SUCCESS
+
+Processing 0296.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.75 sec
+PSNR: 39.43 dB, SSIM: 0.9913
+STATUS: SUCCESS
+
+Processing 0297.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.61 sec
+PSNR: 39.51 dB, SSIM: 0.9916
+STATUS: SUCCESS
+
+Processing 0298.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.22 sec
+PSNR: 39.39 dB, SSIM: 0.9915
+STATUS: SUCCESS
+
+Processing 0299.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.48 sec
+PSNR: 39.50 dB, SSIM: 0.9918
+STATUS: SUCCESS
+
+Processing 0300.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.03 sec
+PSNR: 39.48 dB, SSIM: 0.9919
+STATUS: SUCCESS
+Progress: 300/500 (60.0%) - Success: 300
+
+Processing 0301.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.47 sec
+PSNR: 39.51 dB, SSIM: 0.9920
+STATUS: SUCCESS
+
+Processing 0302.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.88 sec
+PSNR: 39.58 dB, SSIM: 0.9922
+STATUS: SUCCESS
+
+Processing 0303.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 67.91 sec
+PSNR: 39.50 dB, SSIM: 0.9922
+STATUS: SUCCESS
+
+Processing 0304.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.94 sec
+PSNR: 37.68 dB, SSIM: 0.9925
+STATUS: SUCCESS
+
+Processing 0305.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.64 sec
+PSNR: 37.86 dB, SSIM: 0.9925
+STATUS: SUCCESS
+
+Processing 0306.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.84 sec
+PSNR: 38.01 dB, SSIM: 0.9926
+STATUS: SUCCESS
+
+Processing 0307.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.05 sec
+PSNR: 38.05 dB, SSIM: 0.9925
+STATUS: SUCCESS
+
+Processing 0308.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.40 sec
+PSNR: 38.07 dB, SSIM: 0.9927
+STATUS: SUCCESS
+
+Processing 0309.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.30 sec
+PSNR: 38.19 dB, SSIM: 0.9927
+STATUS: SUCCESS
+
+Processing 0310.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.76 sec
+PSNR: 38.19 dB, SSIM: 0.9927
+STATUS: SUCCESS
+
+Processing 0311.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.38 sec
+PSNR: 38.22 dB, SSIM: 0.9927
+STATUS: SUCCESS
+
+Processing 0312.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.74 sec
+PSNR: 38.18 dB, SSIM: 0.9928
+STATUS: SUCCESS
+
+Processing 0313.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.72 sec
+PSNR: 38.33 dB, SSIM: 0.9928
+STATUS: SUCCESS
+
+Processing 0314.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.73 sec
+PSNR: 38.29 dB, SSIM: 0.9928
+STATUS: SUCCESS
+
+Processing 0315.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.39 sec
+PSNR: 38.34 dB, SSIM: 0.9928
+STATUS: SUCCESS
+
+Processing 0316.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 19.19 sec
+PSNR: 38.35 dB, SSIM: 0.9930
+STATUS: SUCCESS
+
+Processing 0317.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.63 sec
+PSNR: 38.39 dB, SSIM: 0.9928
+STATUS: SUCCESS
+
+Processing 0318.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.33 sec
+PSNR: 38.39 dB, SSIM: 0.9929
+STATUS: SUCCESS
+
+Processing 0319.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.17 sec
+PSNR: 38.44 dB, SSIM: 0.9930
+STATUS: SUCCESS
+
+Processing 0320.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.20 sec
+PSNR: 38.38 dB, SSIM: 0.9931
+STATUS: SUCCESS
+
+Processing 0321.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.29 sec
+PSNR: 38.40 dB, SSIM: 0.9930
+STATUS: SUCCESS
+
+Processing 0322.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.58 sec
+PSNR: 38.41 dB, SSIM: 0.9930
+STATUS: SUCCESS
+
+Processing 0323.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.50 sec
+PSNR: 38.44 dB, SSIM: 0.9930
+STATUS: SUCCESS
+
+Processing 0324.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.17 sec
+PSNR: 38.42 dB, SSIM: 0.9931
+STATUS: SUCCESS
+
+Processing 0325.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.10 sec
+PSNR: 38.46 dB, SSIM: 0.9930
+STATUS: SUCCESS
+
+Processing 0326.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.44 sec
+PSNR: 38.50 dB, SSIM: 0.9932
+STATUS: SUCCESS
+
+Processing 0327.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.82 sec
+PSNR: 38.51 dB, SSIM: 0.9931
+STATUS: SUCCESS
+
+Processing 0328.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.40 sec
+PSNR: 38.50 dB, SSIM: 0.9932
+STATUS: SUCCESS
+
+Processing 0329.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.29 sec
+PSNR: 38.56 dB, SSIM: 0.9932
+STATUS: SUCCESS
+
+Processing 0330.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.76 sec
+PSNR: 38.58 dB, SSIM: 0.9932
+STATUS: SUCCESS
+
+Processing 0331.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.04 sec
+PSNR: 38.62 dB, SSIM: 0.9933
+STATUS: SUCCESS
+
+Processing 0332.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.37 sec
+PSNR: 38.57 dB, SSIM: 0.9934
+STATUS: SUCCESS
+
+Processing 0333.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.81 sec
+PSNR: 38.56 dB, SSIM: 0.9933
+STATUS: SUCCESS
+
+Processing 0334.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.28 sec
+PSNR: 38.49 dB, SSIM: 0.9934
+STATUS: SUCCESS
+
+Processing 0335.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.48 sec
+PSNR: 38.45 dB, SSIM: 0.9934
+STATUS: SUCCESS
+
+Processing 0336.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.80 sec
+PSNR: 38.44 dB, SSIM: 0.9936
+STATUS: SUCCESS
+
+Processing 0337.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.60 sec
+PSNR: 38.42 dB, SSIM: 0.9935
+STATUS: SUCCESS
+
+Processing 0338.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.18 sec
+PSNR: 38.44 dB, SSIM: 0.9936
+STATUS: SUCCESS
+
+Processing 0339.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.58 sec
+PSNR: 38.42 dB, SSIM: 0.9937
+STATUS: SUCCESS
+
+Processing 0340.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.59 sec
+PSNR: 38.41 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0341.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.32 sec
+PSNR: 38.29 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0342.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.86 sec
+PSNR: 38.31 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0343.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.87 sec
+PSNR: 38.24 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0344.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.28 sec
+PSNR: 38.23 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0345.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.43 sec
+PSNR: 38.30 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0346.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.29 sec
+PSNR: 38.27 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0347.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.55 sec
+PSNR: 38.31 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0348.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.21 sec
+PSNR: 38.30 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0349.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.39 sec
+PSNR: 38.30 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0350.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.86 sec
+PSNR: 38.29 dB, SSIM: 0.9944
+STATUS: SUCCESS
+Progress: 350/500 (70.0%) - Success: 350
+
+Processing 0351.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.61 sec
+PSNR: 38.30 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0352.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.35 sec
+PSNR: 38.25 dB, SSIM: 0.9945
+STATUS: SUCCESS
+
+Processing 0353.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.67 sec
+PSNR: 38.23 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0354.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.94 sec
+PSNR: 38.21 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0355.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.56 sec
+PSNR: 38.20 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0356.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.53 sec
+PSNR: 38.21 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0357.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.52 sec
+PSNR: 38.22 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0358.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.82 sec
+PSNR: 38.22 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0359.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.57 sec
+PSNR: 38.21 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0360.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.82 sec
+PSNR: 38.21 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0361.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.44 sec
+PSNR: 38.22 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0362.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.07 sec
+PSNR: 38.18 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0363.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.45 sec
+PSNR: 38.16 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0364.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.16 sec
+PSNR: 38.16 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0365.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.69 sec
+PSNR: 38.16 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0366.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.76 sec
+PSNR: 38.18 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0367.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.95 sec
+PSNR: 38.18 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0368.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.18 sec
+PSNR: 38.18 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0369.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.47 sec
+PSNR: 38.19 dB, SSIM: 0.9945
+STATUS: SUCCESS
+
+Processing 0370.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.63 sec
+PSNR: 38.20 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0371.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.03 sec
+PSNR: 38.20 dB, SSIM: 0.9946
+STATUS: SUCCESS
+
+Processing 0372.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.26 sec
+PSNR: 38.24 dB, SSIM: 0.9945
+STATUS: SUCCESS
+
+Processing 0373.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.26 sec
+PSNR: 38.19 dB, SSIM: 0.9946
+STATUS: SUCCESS
+
+Processing 0374.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.70 sec
+PSNR: 38.18 dB, SSIM: 0.9945
+STATUS: SUCCESS
+
+Processing 0375.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.03 sec
+PSNR: 38.20 dB, SSIM: 0.9946
+STATUS: SUCCESS
+
+Processing 0376.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.15 sec
+PSNR: 38.20 dB, SSIM: 0.9946
+STATUS: SUCCESS
+
+Processing 0377.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.13 sec
+PSNR: 38.19 dB, SSIM: 0.9946
+STATUS: SUCCESS
+
+Processing 0378.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.93 sec
+PSNR: 38.20 dB, SSIM: 0.9945
+STATUS: SUCCESS
+
+Processing 0379.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.03 sec
+PSNR: 38.15 dB, SSIM: 0.9945
+STATUS: SUCCESS
+
+Processing 0380.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.31 sec
+PSNR: 38.13 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0381.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.24 sec
+PSNR: 38.06 dB, SSIM: 0.9944
+STATUS: SUCCESS
+
+Processing 0382.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.58 sec
+PSNR: 38.07 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0383.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.47 sec
+PSNR: 38.00 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0384.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.65 sec
+PSNR: 38.00 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0385.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.80 sec
+PSNR: 37.96 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0386.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.72 sec
+PSNR: 37.98 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0387.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.27 sec
+PSNR: 38.00 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0388.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.32 sec
+PSNR: 37.99 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0389.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.32 sec
+PSNR: 37.96 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0390.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.56 sec
+PSNR: 38.01 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0391.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.43 sec
+PSNR: 38.00 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0392.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.77 sec
+PSNR: 38.06 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0393.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.71 sec
+PSNR: 38.07 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0394.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.19 sec
+PSNR: 38.17 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0395.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.71 sec
+PSNR: 38.16 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0396.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.84 sec
+PSNR: 38.23 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0397.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.95 sec
+PSNR: 38.22 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0398.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 54.01 sec
+PSNR: 38.32 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0399.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 13.35 sec
+PSNR: 38.32 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0400.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.44 sec
+PSNR: 38.38 dB, SSIM: 0.9939
+STATUS: SUCCESS
+Progress: 400/500 (80.0%) - Success: 400
+
+Processing 0401.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.95 sec
+PSNR: 38.36 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0402.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 14.66 sec
+PSNR: 38.37 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0403.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.10 sec
+PSNR: 38.30 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0404.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.27 sec
+PSNR: 38.32 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0405.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.34 sec
+PSNR: 38.33 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0406.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.81 sec
+PSNR: 38.40 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0407.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.20 sec
+PSNR: 38.38 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0408.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.75 sec
+PSNR: 38.44 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0409.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.58 sec
+PSNR: 38.40 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0410.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.76 sec
+PSNR: 38.48 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0411.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.82 sec
+PSNR: 38.47 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0412.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.15 sec
+PSNR: 38.49 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0413.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.98 sec
+PSNR: 38.42 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0414.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.03 sec
+PSNR: 38.52 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0415.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 15.69 sec
+PSNR: 38.51 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0416.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 16.10 sec
+PSNR: 38.56 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0417.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 24.02 sec
+PSNR: 38.50 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0418.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 3762.07 sec
+PSNR: 38.54 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0419.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.31 sec
+PSNR: 38.58 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0420.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 25.04 sec
+PSNR: 38.54 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0421.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 23.17 sec
+PSNR: 38.60 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0422.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 22.62 sec
+PSNR: 38.63 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0423.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 22.48 sec
+PSNR: 38.61 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0424.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 23.96 sec
+PSNR: 38.63 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0425.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 23.26 sec
+PSNR: 38.60 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0426.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 23.22 sec
+PSNR: 38.63 dB, SSIM: 0.9941
+STATUS: SUCCESS
+
+Processing 0427.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 22.49 sec
+PSNR: 38.63 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0428.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 23.41 sec
+PSNR: 38.64 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0429.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 3207.92 sec
+PSNR: 38.62 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0430.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 26.89 sec
+PSNR: 38.68 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0431.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.45 sec
+PSNR: 38.67 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0432.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 43.38 sec
+PSNR: 38.68 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0433.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 54.70 sec
+PSNR: 38.64 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0434.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.65 sec
+PSNR: 38.70 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0435.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 57.89 sec
+PSNR: 38.69 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0436.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.66 sec
+PSNR: 38.67 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0437.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.92 sec
+PSNR: 38.57 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0438.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.41 sec
+PSNR: 38.61 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0439.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.27 sec
+PSNR: 38.60 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0440.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.07 sec
+PSNR: 38.63 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0441.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.78 sec
+PSNR: 38.60 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0442.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.32 sec
+PSNR: 38.66 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0443.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.60 sec
+PSNR: 38.65 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0444.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.69 sec
+PSNR: 38.68 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0445.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.11 sec
+PSNR: 38.62 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0446.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.53 sec
+PSNR: 38.68 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0447.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 26.38 sec
+PSNR: 38.66 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0448.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.54 sec
+PSNR: 38.64 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0449.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.39 sec
+PSNR: 38.59 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0450.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.46 sec
+PSNR: 38.65 dB, SSIM: 0.9942
+STATUS: SUCCESS
+Progress: 450/500 (90.0%) - Success: 450
+
+Processing 0451.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 26.94 sec
+PSNR: 38.62 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0452.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.41 sec
+PSNR: 38.64 dB, SSIM: 0.9942
+STATUS: SUCCESS
+
+Processing 0453.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.38 sec
+PSNR: 38.62 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0454.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.84 sec
+PSNR: 38.62 dB, SSIM: 0.9943
+STATUS: SUCCESS
+
+Processing 0455.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 26.78 sec
+PSNR: 37.49 dB, SSIM: 0.9937
+STATUS: SUCCESS
+
+Processing 0456.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 1190.68 sec
+PSNR: 37.60 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0457.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 27.54 sec
+PSNR: 37.63 dB, SSIM: 0.9938
+STATUS: SUCCESS
+
+Processing 0458.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 29.33 sec
+PSNR: 37.79 dB, SSIM: 0.9939
+STATUS: SUCCESS
+
+Processing 0459.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 26.59 sec
+PSNR: 37.82 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0460.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.69 sec
+PSNR: 37.85 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0461.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 28.19 sec
+PSNR: 37.81 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0462.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 50.10 sec
+PSNR: 37.84 dB, SSIM: 0.9940
+STATUS: SUCCESS
+
+Processing 0463.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.87 sec
+PSNR: 41.89 dB, SSIM: 0.9888
+STATUS: SUCCESS
+
+Processing 0464.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.47 sec
+PSNR: 41.91 dB, SSIM: 0.9885
+STATUS: SUCCESS
+
+Processing 0465.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 66.07 sec
+PSNR: 41.76 dB, SSIM: 0.9881
+STATUS: SUCCESS
+
+Processing 0466.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 85.75 sec
+PSNR: 41.85 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0467.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 291.05 sec
+PSNR: 41.78 dB, SSIM: 0.9881
+STATUS: SUCCESS
+
+Processing 0468.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 33.54 sec
+PSNR: 41.79 dB, SSIM: 0.9882
+STATUS: SUCCESS
+
+Processing 0469.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 63.01 sec
+PSNR: 41.74 dB, SSIM: 0.9880
+STATUS: SUCCESS
+
+Processing 0470.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 72.79 sec
+PSNR: 41.61 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0471.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 91.43 sec
+PSNR: 41.68 dB, SSIM: 0.9878
+STATUS: SUCCESS
+
+Processing 0472.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 205.51 sec
+PSNR: 41.64 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0473.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 112.29 sec
+PSNR: 41.65 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0474.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 48.09 sec
+PSNR: 41.59 dB, SSIM: 0.9872
+STATUS: SUCCESS
+
+Processing 0475.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 46.26 sec
+PSNR: 41.62 dB, SSIM: 0.9877
+STATUS: SUCCESS
+
+Processing 0476.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.65 sec
+PSNR: 41.63 dB, SSIM: 0.9876
+STATUS: SUCCESS
+
+Processing 0477.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 72.10 sec
+PSNR: 41.60 dB, SSIM: 0.9873
+STATUS: SUCCESS
+
+Processing 0478.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 47.80 sec
+PSNR: 41.60 dB, SSIM: 0.9874
+STATUS: SUCCESS
+
+Processing 0479.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 48.50 sec
+PSNR: 41.41 dB, SSIM: 0.9866
+STATUS: SUCCESS
+
+Processing 0480.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 44.28 sec
+PSNR: 41.55 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0481.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 44.30 sec
+PSNR: 41.63 dB, SSIM: 0.9872
+STATUS: SUCCESS
+
+Processing 0482.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 48.58 sec
+PSNR: 41.56 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0483.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 70.41 sec
+PSNR: 41.54 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0484.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.12 sec
+PSNR: 41.57 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0485.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 47.96 sec
+PSNR: 41.64 dB, SSIM: 0.9874
+STATUS: SUCCESS
+
+Processing 0486.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 52.29 sec
+PSNR: 41.56 dB, SSIM: 0.9870
+STATUS: SUCCESS
+
+Processing 0487.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 70.37 sec
+PSNR: 41.49 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0488.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 70.41 sec
+PSNR: 41.46 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0489.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 78.15 sec
+PSNR: 41.48 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0490.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 147.69 sec
+PSNR: 41.37 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0491.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 49.69 sec
+PSNR: 41.44 dB, SSIM: 0.9871
+STATUS: SUCCESS
+
+Processing 0492.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 64.82 sec
+PSNR: 41.39 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0493.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 129.51 sec
+PSNR: 41.44 dB, SSIM: 0.9869
+STATUS: SUCCESS
+
+Processing 0494.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 212.00 sec
+PSNR: 41.29 dB, SSIM: 0.9868
+STATUS: SUCCESS
+
+Processing 0495.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 50.93 sec
+PSNR: 41.46 dB, SSIM: 0.9868
+STATUS: SUCCESS
+
+Processing 0496.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.46 sec
+PSNR: 41.35 dB, SSIM: 0.9868
+STATUS: SUCCESS
+
+Processing 0497.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 30.19 sec
+PSNR: 41.36 dB, SSIM: 0.9867
+STATUS: SUCCESS
+
+Processing 0498.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.11 sec
+PSNR: 41.31 dB, SSIM: 0.9867
+STATUS: SUCCESS
+
+Processing 0499.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 17.97 sec
+PSNR: 41.43 dB, SSIM: 0.9868
+STATUS: SUCCESS
+
+Processing 0500.jpg...
+Converting to grayscale for denoising
+Restoring color information
+Successfully saved denoised image
+Processing time: 18.40 sec
+PSNR: 41.34 dB, SSIM: 0.9868
+STATUS: SUCCESS
+Progress: 500/500 (100.0%) - Success: 500
